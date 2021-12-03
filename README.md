@@ -1,6 +1,6 @@
 # Pig-Game 
 
-Rules of (Pig Game)[https://en.wikipedia.org/wiki/Pig_(dice_game)]
+Rules of [Pig Game](https://en.wikipedia.org/wiki/Pig_(dice_game))
 
 ## demo 
 
